@@ -1,0 +1,6 @@
+@DapperAspNetCore_HostAddress = http://localhost:5110
+
+GET {{DapperAspNetCore_HostAddress}}/api/products
+Accept: application/json
+
+###
